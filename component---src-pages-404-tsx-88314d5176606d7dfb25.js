@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_chakra_ui_type_script=self.webpackChunkgatsby_starter_chakra_ui_type_script||[]).push([[218],{2513:function(t,n,e){function r(){return"undefined"!=typeof window&&(window.location="/"),null}e.r(n),e.d(n,{default:function(){return r}})}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-88314d5176606d7dfb25.js.map
